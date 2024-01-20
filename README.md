@@ -1,7 +1,7 @@
 # 7DaysOfCode - Python Pandas Challenge 🚀
 
 ## Project Overview
-Welcome to the #7DaysOfCode Python Pandas Challenge! This 7-day journey aims to enhance your Python and Pandas skills through a hands-on project focused on library loan data analysis. Over the course, you'll import, clean, explore, and visualize data, addressing questions related to loan trends, library usage patterns, and more.
+This 7-day journey aims to enhance Python and Pandas skills through a hands-on project focused on library loan data analysis. Tasks include importing, cleaning, exploring, and visualizing data, addressing questions related to loan trends, library usage patterns, and more.
 
 ## Day-wise Tasks
 * Day 1-3: Data Preparation
