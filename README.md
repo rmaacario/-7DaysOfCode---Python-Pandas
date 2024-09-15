@@ -3,7 +3,7 @@
 ## Project Overview
 This 7-day journey aims to enhance Python and Pandas skills through a hands-on project focused on library loan data analysis. Tasks include importing, cleaning, exploring, and visualizing data, addressing questions related to loan trends, library usage patterns, and more.
 
-## Day-wise Tasks
+### Day-wise Tasks
 * Day 1-3: Data Preparation
 Import and organize loan and inventory data from the UFRN library.
 Merge datasets, clean null values, and eliminate duplicates.
@@ -20,6 +20,6 @@ Calculate percentage differences in loans for 2017-2018, 2018-2019, and 2019-202
 Create an HTML table with custom styling for front-end integration.
 Optionally, provide pre-styled CSS to assist the front-end team.
 
-## Project Conclusion
+### Project Conclusion
 Celebrate the successful completion of the challenge, gaining practical experience in working with library data. Share your insights, analyses, and visualizations. Consider extending the project to explore additional metrics and optimizations for effective library information management.
 
